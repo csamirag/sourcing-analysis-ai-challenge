@@ -43,10 +43,6 @@ presentation/
 
 * Executive presentation
 
-assets/
-
-* Supporting charts and visuals
-
 ## Key Topics Analyzed
 
 * Funnel Conversion Analysis
